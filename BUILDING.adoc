@@ -1,0 +1,6 @@
+
+
+[source]
+----
+helm install numberguess-from-chart -f charts/helm.yaml wildfly/wildfly
+----
